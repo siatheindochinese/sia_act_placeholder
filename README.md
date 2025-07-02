@@ -1,5 +1,3 @@
-# sia_act_placeholder
-
 # Placeholder for SiA
 
 Placeholder for SiA, our model from **[Scaling Open-Vocabulary Action Detection](https://arxiv.org/abs/2504.03096)**.
